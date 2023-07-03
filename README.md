@@ -1,5 +1,6 @@
 # ECE408
 https://github.com/aschuh703/ECE408
+https://wiki.illinois.edu/wiki/display/ECE408/Labs+and+Project
 ## MP0
 - we simply fetch the CUDA device information with `cudaGetDeviceProperties`, my results are as follows
 ```
@@ -68,4 +69,9 @@ Device 7 name: Tesla V100-SXM2-32GB
  Maximum block dimensions: 1024 x 1024 x 64
  Maximum grid dimensions: 2147483647 x 65535 x 65535
  Warp size: 32
+```
+## MP1 Vector Addition
+```
+cd MP1
+sh run_datasets
 ```
