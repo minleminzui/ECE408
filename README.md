@@ -75,3 +75,8 @@ Device 7 name: Tesla V100-SXM2-32GB
 cd MP1
 sh run_datasets
 ```
+## MP2 Simple Matrix Multiply
+```
+cd MP2
+sh run_datasets
+```
