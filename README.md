@@ -80,3 +80,8 @@ sh run_datasets
 cd MP2
 sh run_datasets
 ```
+## MP3 Tiled Matrix Multiply
+```
+cd MP3
+sh run_datasets
+```
